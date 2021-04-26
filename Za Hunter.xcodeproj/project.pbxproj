@@ -11,6 +11,7 @@
 		3F26861E2636889000D683D2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F26861D2636889000D683D2 /* ContentView.swift */; };
 		3F2686202636889400D683D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F26861F2636889400D683D2 /* Assets.xcassets */; };
 		3F2686232636889400D683D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F2686222636889400D683D2 /* Preview Assets.xcassets */; };
+		3F26863026368C0600D683D2 /* Locationmanager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F26862F26368C0600D683D2 /* Locationmanager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F26861F2636889400D683D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F2686222636889400D683D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F2686242636889400D683D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F26862F26368C0600D683D2 /* Locationmanager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locationmanager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F26861B2636889000D683D2 /* Za_HunterApp.swift */,
 				3F26861D2636889000D683D2 /* ContentView.swift */,
+				3F26862F26368C0600D683D2 /* Locationmanager.swift */,
 				3F26861F2636889400D683D2 /* Assets.xcassets */,
 				3F2686242636889400D683D2 /* Info.plist */,
 				3F2686212636889400D683D2 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F26863026368C0600D683D2 /* Locationmanager.swift in Sources */,
 				3F26861E2636889000D683D2 /* ContentView.swift in Sources */,
 				3F26861C2636889000D683D2 /* Za_HunterApp.swift in Sources */,
 			);
